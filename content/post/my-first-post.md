@@ -19,4 +19,3 @@ Untuk mengenalku lebih lanjut. Klik link profile di bawah ini!👌
 <https://www.instagram.com/demapuspitaa/>
 
 <https://web.facebook.com/demapuspita19>
-</div>
