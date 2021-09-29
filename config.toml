@@ -37,6 +37,10 @@ paginate        = 6
 
 [permalinks]
   post = "/:slug/"
+  Authors = "/:slug/"
+  Pages = "/:slug/"
+  Homepage = "/:slug/"
+
 
 [[menu.main]]
   name = "Main"
