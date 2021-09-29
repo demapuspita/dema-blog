@@ -5,4 +5,7 @@ image: uploads/1.jpg
 description: Ada cerita apa hari ini?
 tags: ["life"]
 ---
+
 Hello! Welcome to My Blog!
+
+Hari ini
