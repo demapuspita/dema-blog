@@ -1,0 +1,59 @@
+baseurl         = "/"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "Dema Puspita's Blog"
+  subtitle    = "Welcome!"
+
+  cover       = "uploads/HEADER.jpg"
+  description = "It could be everything"
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  fbName = "demapuspita19"
+  githubName = "demapuspita"
+
+  logo = ""
+  orgName = "DM"
+  orgWebsite = ""
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "demapuspita"
+  authorAvatar = "uploads/profile_picture.jpeg"
+  authorLocation = "Karawang, ID"
+  authorWebsite = "https://github.com/demapuspita"
+  authorDescription = "A Student"
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Main"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "My Life"
+  url = "/tags/life/"
+  weight = 100
+
+[[menu.main]]
+  name = "food"
+  url = "/categories/food/"
+  weight = 99
+
+[[menu.main]]
+  name = "Google"
+  url = "https://google.com/"
+  weight = 95
