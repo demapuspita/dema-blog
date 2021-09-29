@@ -6,7 +6,7 @@ image: "uploads/cloud.jpg"
 categories: ["anything"]
 ---
 
-##### Technologi Cloud Computing
+### Technologi Cloud Computing
 
 Apa *sih Technologi Cloud Computing itu? Yuk*, kita cari tau!
 
