@@ -22,7 +22,7 @@ collections:
       - { label: "Description", name: "description", widget: "string"}
   - name: "Authors"
     label: "Authors"
-    folder: "content/post"
+    folder: "content/Authors"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
@@ -32,7 +32,7 @@ collections:
       - { label: "Description", name: "description", widget: "string"}
   - name: "Pages"
     label: "Pages"
-    folder: "content/post"
+    folder: "content/Pages"
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
