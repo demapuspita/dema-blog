@@ -13,7 +13,7 @@ paginate        = 6
   description = "It could be everything"
   metaDescription = ""
   googleAnalytics = ""
-  customCSS = ["style.css"]
+  customCSS = []
   RSSLink = ""
 
   fbName = "demapuspita19"
