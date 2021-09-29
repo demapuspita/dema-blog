@@ -3,7 +3,6 @@ title: "About Me"
 date: 2021-09-29T12:49:23+07:00
 draft: false
 image: "uploads/pexels-1.jpg"
-tags: [life]
 ---
 
 ## About me
