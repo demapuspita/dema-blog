@@ -3,6 +3,7 @@ title: Cerita hari ini 1
 date: 2021-09-29T14:04:31.227Z
 image: uploads/1.jpg
 description: Ada cerita apa hari ini?
+tags: ["life"]
 ---
 **Hello! Selamat datang di blog-ku!**
 
