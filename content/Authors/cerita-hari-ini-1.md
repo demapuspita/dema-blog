@@ -3,6 +3,7 @@ title: "Cerita hari ini #1"
 date: 2021-09-29T12:48:09.920Z
 image: uploads/1.jpg
 description: "Cerita hari ini #1"
+tags: ["life"]
 ---
 ##### Hello! Welcome to My Blog!
 
