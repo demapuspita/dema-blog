@@ -6,8 +6,8 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "Dema Puspita's Blog"
-  subtitle    = "Welcome!"
+  title       = "Dema Puspita Kiranti"
+  subtitle    = "Personal Blog!"
 
   cover       = "uploads/HEADER.jpg"
   description = "It could be everything"
@@ -27,7 +27,7 @@ paginate        = 6
   author = "demapuspita"
   authorAvatar = "uploads/profile_picture.jpeg"
   authorLocation = "Karawang, ID"
-  authorWebsite = "https://github.com/demapuspita"
+  authorWebsite = "https://my-portfolio-kohl-nu.vercel.app/"
   authorDescription = "A Student"
 
   pageNotFoundTitle = "404 - Page not found"
