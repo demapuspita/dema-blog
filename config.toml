@@ -22,7 +22,7 @@ paginate        = 6
 
   logo = ""
   orgName = "DM"
-  orgWebsite = ""
+  orgWebsite = ""https://my-portfolio-kohl-nu.vercel.app/"
   orgDescription = "Here is a description placeholder for your org"
 
   author = "demapuspita"
