@@ -41,7 +41,6 @@ paginate        = 6
   Pages = "/:slug/"
   Homepage = "/:slug/"
 
-
 [[menu.main]]
   name = "Main"
   url = "/"
