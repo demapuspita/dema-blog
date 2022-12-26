@@ -2,7 +2,7 @@
 title: Cerita hari ini - 2
 date: 2022-12-26T09:50:16.861Z
 draft: false
-image: uploads/pexels-1.jpg
+image: uploads/2.jpg
 description: Ada cerita apa hari ini?
 tags: ["life"]
 ---
