@@ -3,8 +3,7 @@ title: Technologi Cloud Computing
 date: 2021-09-29T12:02:24.002Z
 image: uploads/cloud.jpg
 description: Apa itu cloud?
-categories:
-  - anything
+tags: ["anything"]
 ---
 
 ##### Technologi Cloud Computing
