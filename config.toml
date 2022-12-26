@@ -41,6 +41,7 @@ paginate        = 6
   Pages = "/:slug/"
   Homepage = "/:slug/"
 
+
 [[menu.main]]
   name = "Main"
   url = "/"
@@ -50,6 +51,11 @@ paginate        = 6
   name = "My Life"
   url = "/tags/life/"
   weight = 100
+
+[[menu.main]]
+  name = "Media"
+  url = "/categories/anything/"
+  weight = 99
 
 [[menu.main]]
   name = "Google"
