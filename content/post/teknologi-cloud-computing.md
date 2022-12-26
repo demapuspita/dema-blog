@@ -10,7 +10,7 @@ tags: ["anything"]
 
 Apa sih Teknologi *Cloud Computing* itu? *Yuk*, kita cari tahu!
 
-Teknologi ***Cloud Computing*** itu sebetulnya sebuah istilah yang diberikan untuk teknologi yang ddapat diakses melalui internet. Pada teknologi berbasis *cloud*, semua data berada dan disimpan pada server yang dapat diakses melalui jaringan internet, begitu juga dengan aplikasi atau software. Artinya, tidak perlu lagi melakukan instalasi aplikasi pada perangkat. Sebagai gantinya, pengguna hanya perlu terhubung dengan internet untuk mengakses data dan menjalankan aplikasi yang berada di dalam *cloud*.\
+Teknologi ***Cloud Computing*** itu sebetulnya sebuah istilah yang diberikan untuk teknologi yang dapat diakses melalui internet. Pada teknologi berbasis *cloud*, semua data berada dan disimpan pada server yang dapat diakses melalui jaringan internet, begitu juga dengan aplikasi atau software. Artinya, tidak perlu lagi melakukan instalasi aplikasi pada perangkat. Sebagai gantinya, pengguna hanya perlu terhubung dengan internet untuk mengakses data dan menjalankan aplikasi yang berada di dalam *cloud*.\
 Nah, selanjutnya tingkatan di *cloud* ada apa saja, ya?
 
 1. ***SaaS (Software as a Service)***
