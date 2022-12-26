@@ -53,11 +53,6 @@ paginate        = 6
   weight = 100
 
 [[menu.main]]
-  name = "Media"
-  url = "/categories/anything/"
-  weight = 99
-
-[[menu.main]]
   name = "Google"
   url = "https://google.com/"
   weight = 95
