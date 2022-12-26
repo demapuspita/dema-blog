@@ -53,7 +53,7 @@ paginate        = 6
   weight = 100
 
 [[menu.main]]
-  name = "Media"
+  name = "Article"
   url = "/tags/anything/"
   weight = 99
 
