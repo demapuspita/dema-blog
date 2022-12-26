@@ -1,6 +1,6 @@
 ---
 title: Cerita hari ini - 3
-date: 2021-09-29T14:04:31.227Z
+date: 2022-12-26T14:04:31.227Z
 draft: false
 image: uploads/3.jpg
 description: Ada cerita apa hari ini?
