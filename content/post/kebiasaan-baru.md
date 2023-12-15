@@ -2,6 +2,9 @@
 title: Kebiasaan Baru
 date: 2023-12-15T11:22:32.521Z
 image: uploads/pexels-pixabay-247195.jpg
+description: berjalan sendiri harusnya bukan masalah
+tags:
+  - life
 ---
 s﻿elama menjalani hari-hari yang sepi, aku mulai mencari kebiasaan baru. kebiasaan yang bisa kulakukan sendiri tanpa perlu ada yang menemani. sebetulnya hal ini memang sangat bertolak belakang dengan kebiasaan yang dulu biasa kulakukan, ya, kebiasaan yang selalu kulakukan bersamamu.
 
