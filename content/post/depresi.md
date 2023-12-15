@@ -3,7 +3,8 @@ title: Depresi
 date: 2023-12-15T10:31:37.117Z
 image: uploads/2.webp
 description: Aku tau kesedihan bukanlah akhir
-tags: ["life"]
+tags:
+  - life
 ---
 apa ini yang dinamakan depresi?
 
@@ -29,6 +30,6 @@ a﻿ku tidak membenci hari itu. aku hanya... sedih mengapa hari itu harus datang
 
 a﻿ku selalu berharap akan ada masa di mana kita sama-sama saling menemukan. bukankah hidup bersama akan jauh lebih baik?
 
-m﻿eskipun aku tidak pernah tau kapan hari itu akan datang, atau apakah betil akan ada hari itu, jauh dilubuk hatiku, aku selalu berharap akan hal itu.
+m﻿eskipun aku tidak pernah tau kapan hari itu akan datang, atau apakah betul akan ada hari itu, jauh dilubuk hatiku, aku selalu berharap akan hal itu.
 
 a﻿ku percaya bahwa kehadiranmu untukku bukanlah sebuah kebetulan semata, dan bukan juga sekedar pelengkap kehidupan, tapi sebagai pendamping sampai dunia benar-benar berakhir.
