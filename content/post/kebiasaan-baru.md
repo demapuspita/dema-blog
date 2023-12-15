@@ -8,7 +8,9 @@ tags:
 ---
 ##### Berjalan sendiri harusnya bukan masalah
 
+<div style="text-align: justify;">
 s﻿elama menjalani hari-hari yang sepi, aku mulai mencari kebiasaan baru. kebiasaan yang bisa kulakukan sendiri tanpa perlu ada yang menemani. sebetulnya hal ini memang sangat bertolak belakang dengan kebiasaan yang dulu biasa kulakukan, ya, kebiasaan yang selalu kulakukan bersamamu.
+</div>
 
 d﻿ahulu setiap permainan yang kita mainkan bersama terasa jauh lebih menyenangkan. namun, saat ini aku bahkan kehilangan selera untuk memainkan itu semua. sejak hari itu, aku memutuskan untuk menghapus semua permainan yang berkaitan kamu. 
 
