@@ -6,6 +6,8 @@ description: Aku tau kesedihan bukanlah akhir
 tags:
   - life
 ---
+##### Aku tau kesedihan bukanlah akhir
+
 apa ini yang dinamakan depresi?
 
 t﻿idak memiliki semangat, tidak memiliki nafsu makan, tidak merasa ada hal yang membahagiakan, bahkan tidak memiliki alasan untuk tetap hidup.
