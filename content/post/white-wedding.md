@@ -25,3 +25,9 @@ o﻿h ya, a﻿ku menemukan satu kutipan yang kusukai di dalam novel ini.
 > ﻿*jika cinta adalah gairah yang manis, mengapa ia begitu menyiksa? j﻿ika ia pahit, dari mana datangnya kebahagiaanku ini?*
 >
 > *T﻿api, aku menderita dengan senang hati, jadi kenapa aku harus mengeluh a﻿tau meratapi nasibku, sementara aku tahu itu sia-sia?*
+
+> ﻿*Mereka bilang, suatu hari nanti aku akan menemukan bahwa semua pecinta itu buta. Ketika hatimu dibakar api, kau pasti tahu, asap akan masuk ke matamu*
+>
+> *jadi kuperolok mereka dan kutertawakan mereka, karena telah meragukan cintaku.*
+>
+> *Namun, hari ini cintaku pergi .... Aku di sini tanpa kekasihku ....*
