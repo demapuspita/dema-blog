@@ -6,7 +6,7 @@ paginate        = 6
 #SectionPagesMenu = "main"
 
 [params]
-  title       = "Dema Puspita Kiranti"
+  title       = "Kiranti's Life"
   subtitle    = "Personal Blog!"
 
   cover       = "uploads/HEADER.jpg"
@@ -24,11 +24,11 @@ paginate        = 6
   orgWebsite = "https://my-portfolio-kohl-nu.vercel.app/"
   orgDescription = "Here is a description placeholder for your org"
 
-  author = "demapuspita"
+  author = "kiranti"
   authorAvatar = "uploads/profile_picture.jpeg"
   authorLocation = "Karawang, ID"
   authorWebsite = "https://my-portfolio-kohl-nu.vercel.app/"
-  authorDescription = "A Student"
+  authorDescription = ""
 
   pageNotFoundTitle = "404 - Page not found"
 
@@ -56,8 +56,3 @@ paginate        = 6
   name = "Article"
   url = "/tags/anything/"
   weight = 99
-
-[[menu.main]]
-  name = "Google"
-  url = "https://google.com/"
-  weight = 95
