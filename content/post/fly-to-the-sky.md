@@ -6,7 +6,7 @@ description: K﻿amu dan siapa pun itu calon istri kamu, adalah sepasang potonga
 tags: 
     - article
 ---
-##### K﻿amu dan siapa pun itu calon istri kamu, adalah sepasang potongan *puzzle*
+##### K﻿amu dan siapa pun itu calon istri kamu, adalah sepasang potongan puzzle
 
 > Bertemu denganmu tidak pernah ada dalam agendaku. Begitu pula mungkin denganmu, tak tebersit namaku dalam hari-harimu, dulu. Tetapi, siapa yang menyangka, ujung benang merah milikku ternyata tersangkut di kelingkingmu.\
 > \
