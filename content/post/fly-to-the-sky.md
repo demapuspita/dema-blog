@@ -21,4 +21,4 @@ P﻿ertemuan singkat yang sempat terputus karena hal-hal yang terjadi diluar dug
 
 K﻿amu perlu tau, tentu aku tidak diam saja, tidak jarang aku merayu Tuhanku agar kemungkinan itu benar-benar terjadi. Aku juga ingin mengusahakan untuk memperpendek jarak diantara kita, sehingga bertemu denganmu tidak lagi menjadi angan-angan semata.
 
-> K﻿amu dan siapa pun itu calin istri kamu, adalah sepasang potongan *puzzle*. Untuk bersatu, kalian harus saling melengkapi... satu orang punya tonjolan. Kalian gak boleh memiliki bentuk *puzzle* yang sama, karena nanti nggak akan pernah bisa bersatu.
+> K﻿amu dan siapa pun itu calon istri kamu, adalah sepasang potongan *puzzle*. Untuk bersatu, kalian harus saling melengkapi... satu orang punya tonjolan. Kalian gak boleh memiliki bentuk *puzzle* yang sama, karena nanti nggak akan pernah bisa bersatu.
