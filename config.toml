@@ -54,5 +54,5 @@ paginate        = 6
 
 [[menu.main]]
   name = "Article"
-  url = "/tags/anything/"
+  url = "/tags/article/"
   weight = 99
