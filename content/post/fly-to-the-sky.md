@@ -1,11 +1,12 @@
 ---
 title: Fly To The Sky
-tags: article
 date: 2023-12-14T14:18:15.319Z
 image: uploads/pexels-sebastian-voortman-165505.jpg
 description: K﻿amu dan siapa pun itu calon istri kamu, adalah sepasang potongan puzzle
+tags: 
+    - article
 ---
-K﻿amu dan siapa pun itu calon istri kamu, adalah sepasang potongan *puzzle*
+##### K﻿amu dan siapa pun itu calon istri kamu, adalah sepasang potongan *puzzle*
 
 > Bertemu denganmu tidak pernah ada dalam agendaku. Begitu pula mungkin denganmu, tak tebersit namaku dalam hari-harimu, dulu. Tetapi, siapa yang menyangka, ujung benang merah milikku ternyata tersangkut di kelingkingmu.\
 > \
