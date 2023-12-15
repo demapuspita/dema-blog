@@ -2,7 +2,7 @@
 title: White Wedding
 date: 2023-12-14T13:24:11.319Z
 image: uploads/pexels-atahan-demir-15555989.jpg
-description: Berjalan sendiri harusnya bukan masalah
+description: Jika cinta adalah gairah yang manis, mengapa ia begitu menyiksa?
 tags:
   - article
 ---
