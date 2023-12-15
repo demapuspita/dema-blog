@@ -1,11 +1,12 @@
 ---
 title: Ada nama yang abadi di hati tapi tak bisa dinikahi
-tags: article
+tags: 
+    - article
 date: 2023-12-13T15:20:44.340Z
 image: uploads/pexels-jaroslav-filo-3394072.jpg
 description: J﻿atuh cinta seutuhnya, putus cinta secukupnya
 ---
-"J﻿atuh cinta seutuhnya, putus cinta secukupnya"
+##### "J﻿atuh cinta seutuhnya, putus cinta secukupnya"
 
 > A﻿ku bisa
 >
