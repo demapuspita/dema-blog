@@ -36,6 +36,6 @@ Buku ini hanya berisi puisi-puisi singkat. Sebagian besar berisi nasihat-nasihat
 >
 > U﻿ntuk air mata bahagia
 >
-> J﻿uga untuk air amata luka
+> J﻿uga untuk air mata luka
 >
 > D﻿alam jumlah yang sama
