@@ -49,4 +49,3 @@ collections:
       - { label: "Date", name: "date", widget: "date" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Featured Image", name: "image", widget: "image"}
-      - { label: "Description", name: "description", widget: "string"}
