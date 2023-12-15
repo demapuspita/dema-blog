@@ -6,7 +6,7 @@ description: Jika cinta adalah gairah yang manis, mengapa ia begitu menyiksa?
 tags:
   - article
 ---
-##### "﻿ Jika cinta adalah gairah yang manis, mengapa ia begitu menyiksa?"
+##### "﻿Jika cinta adalah gairah yang manis, mengapa ia begitu menyiksa?"
 
 > Ini kisah kecil tentang gadis mungil bernama Elphira. Dia terlahir albino. Dari ujung kepala hingga ujung kaki, semuanya putih. Kadang-kadang, Elphira menganggap dirinya hantu. Dia akan meringis ngeri setiap melihat pantulan dirinya dalam cermin. Kulitnya akan terbakar jika sinar matahari menyentuhnya. Pada akhirnya, Elphira punya satu keyakinan bulat: dia benci warna putih.\
 > \
@@ -26,8 +26,8 @@ o﻿h ya, a﻿ku menemukan satu kutipan yang kusukai di dalam novel ini.
 >
 > *T﻿api, aku menderita dengan senang hati, jadi kenapa aku harus mengeluh a﻿tau meratapi nasibku, sementara aku tahu itu sia-sia?*
 
-> ﻿*Mereka bilang, suatu hari nanti aku akan menemukan bahwa semua pecinta itu buta. Ketika hatimu dibakar api, kau pasti tahu, asap akan masuk ke matamu*
+> ﻿*Mereka bilang, suatu hari nanti aku akan menemukan bahwa semua pecinta itu buta. Ketika hatimu dibakar api, kau pasti tahu, asap akan masuk ke matamu.*
 >
-> *jadi kuperolok mereka dan kutertawakan mereka, karena telah meragukan cintaku.*
+> *Jadi kuperolok mereka dan kutertawakan mereka, karena telah meragukan cintaku.*
 >
 > *Namun, hari ini cintaku pergi .... Aku di sini tanpa kekasihku ....*
