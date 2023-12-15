@@ -1,6 +1,6 @@
 ---
 title: Kebiasaan Baru
-date: 2023-12-15T11:22:32.521Z
+date: 2023-12-14T11:22:32.521Z
 image: uploads/pexels-pixabay-247195.jpg
 ---
 
