@@ -2,6 +2,7 @@
 title: Depresi
 date: 2023-12-15T10:31:37.117Z
 image: uploads/2.webp
+tags: ["life"]
 ---
 apa ini yang dinamakan depresi?
 
