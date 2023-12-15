@@ -2,8 +2,11 @@
 title: White Wedding
 date: 2023-12-14T13:24:11.319Z
 image: uploads/pexels-atahan-demir-15555989.jpg
+description: Berjalan sendiri harusnya bukan masalah
+tags:
+  - article
 ---
-"﻿*Jika cinta adalah gairah yang manis, mengapa ia begitu menyiksa?*"
+##### "﻿* ##### Jika cinta adalah gairah yang manis, mengapa ia begitu menyiksa?*"
 
 > Ini kisah kecil tentang gadis mungil bernama Elphira. Dia terlahir albino. Dari ujung kepala hingga ujung kaki, semuanya putih. Kadang-kadang, Elphira menganggap dirinya hantu. Dia akan meringis ngeri setiap melihat pantulan dirinya dalam cermin. Kulitnya akan terbakar jika sinar matahari menyentuhnya. Pada akhirnya, Elphira punya satu keyakinan bulat: dia benci warna putih.\
 > \

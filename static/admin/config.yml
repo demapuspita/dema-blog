@@ -46,6 +46,9 @@ collections:
     create: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
+      - { label: "Tags", name: "tag", widget: "string" }
       - { label: "Date", name: "date", widget: "date" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Featured Image", name: "image", widget: "image"}
+      - { label: "Description", name: "description", widget: "string"}
+
