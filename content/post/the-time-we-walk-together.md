@@ -1,6 +1,7 @@
 ---
 title: The Time We Walk Together
-tags: article
+tags: 
+    - article
 date: 2023-12-13T10:21:45.996Z
 image: uploads/pexels-soontorn-b-10393592.jpg
 description: Karena Kita Berbeda Satu Sama Lain
