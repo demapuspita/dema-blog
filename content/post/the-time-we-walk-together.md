@@ -5,7 +5,7 @@ date: 2023-12-13T10:21:45.996Z
 image: uploads/pexels-soontorn-b-10393592.jpg
 description: Karena Kita Berbeda Satu Sama Lain
 ---
-"K﻿arena Kita Berbeda Satu Sama Lain"
+##### "K﻿arena Kita Berbeda Satu Sama Lain"
 
 > S﻿emua orang di dunia mencintai
 >
