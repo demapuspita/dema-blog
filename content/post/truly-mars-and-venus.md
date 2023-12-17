@@ -1,12 +1,13 @@
 ---
 title: Truly Mars and Venus
-tags: article
+tags:
+  - article
 date: 2023-12-17T01:43:44.658Z
 image: uploads/pexels-photo-10205743.jpeg
 description: B﻿ila pria dan wanita mampu menghormati perbedaan-perbedaan mereka,
   cinta memiliki kesempatan untuk tumbuh
 ---
-"B﻿ila pria dan wanita mampu menghormati perbedaan-perbedaan mereka, cinta memiliki kesempatan untuk tumbuh"
+##### "B﻿ila pria dan wanita mampu menghormati perbedaan-perbedaan mereka, cinta memiliki kesempatan untuk tumbuh"
 
 > * *P﻿ria mengira wanita ingin mengubah mereka, dan wanita mengira pria tak mau mendengarkannya.*
 > * *U﻿ntuk menyelesaikan suatu masalah, pria pergi menyendiri, sementara wanita membicarakannya.*
