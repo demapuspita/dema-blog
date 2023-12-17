@@ -1,6 +1,7 @@
 ---
 title: "Kupikir Segalanya Akan Beres Saat Aku Dewasa    "
-tags: article
+tags: 
+  - article
 date: 2023-12-16T10:52:15.895Z
 image: uploads/pexels-julia-volk-5273059.jpg
 description: Jika kita menggunakan kacamata yang gelap, dunia kita akan gelap
