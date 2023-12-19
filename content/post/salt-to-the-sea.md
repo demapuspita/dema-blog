@@ -1,12 +1,13 @@
 ---
 title: salt to the sea
-tags: article
+tags: 
+  - article
 date: 2023-12-18T16:30:41.970Z
 image: uploads/pexels-robert-stokoe-7175012.jpg
 description: Aku menangis karena tak punya sepatu, sampai kulihat ada seseorang
   yang tak punya kaki
 ---
-"Aku menangis karena tak punya sepatu, sampai kulihat ada seseorang yang tak punya kaki"
+##### "Aku menangis karena tak punya sepatu, sampai kulihat ada seseorang yang tak punya kaki"
 
 > Tahun 1945. Perang Dunia II merambah Prusia Timur. Jutaan pengungsi pergi mencari tempat aman. Di antara mereka terdapat empat orang dengan kisah dan rahasia yang berbeda.
 >
