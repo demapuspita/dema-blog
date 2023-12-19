@@ -1,12 +1,13 @@
 ---
 title: Ayah
-tags: "- article"
+tags: 
+  - article
 date: 2023-12-19T13:15:56.006Z
 image: uploads/pexels-noel-blck-6488427.jpg
 description: H﻿idup ini memang dipenuhi orang-orang yang kita inginkan, tetapi
   tak menginginkan kita, dan sebaliknya
 ---
-"H﻿idup ini memang dipenuhi orang-orang yang kita inginkan, tetapi tak menginginkan kita, dan sebaliknya"
+##### "H﻿idup ini memang dipenuhi orang-orang yang kita inginkan, tetapi tak menginginkan kita, dan sebaliknya"
 
 S﻿ungguh! sejauh ini, ini adalah novel terbaik yang pernah kubaca. Bagaimana dia menuliskan setiap kalimat dengan bumbu puitisnya. Seperti satu kata sederhana yang sebetulnya bisa diucapkan begitu saja, namun ia buat menjadi sebuah kalimat panjang yang sangat menarik. Tidak pernah aku temukan tulisan seperti ini sebelumnya. Aku sangat menyukai gaya penulisan yang disematkan dalam setiap paragraf yang ia susun sedemikian rupa indahnya. 
 
