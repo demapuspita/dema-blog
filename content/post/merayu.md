@@ -1,11 +1,12 @@
 ---
 title: Merayu
-tags: life
+tags: 
+    - life
 date: 2023-12-26T15:11:32.283Z
 image: uploads/pexels-vie-studio-70061941.jpg
 description: Biarkan aku merayu Tuhanku untuk apapun yang berkaitan kamu
 ---
-Biarkan aku merayu Tuhanku untuk apapun yang berkaitan kamu
+##### Biarkan aku merayu Tuhanku untuk apapun yang berkaitan kamu
 
 B﻿oleh tidak ya jika aku merayu Tuhanku untuk membiarkanmu tetap untukku? Meskipun saat ini, aku sedang mengusahakan hari-hari tanpa kamu, tapi aku tidak ingin berhenti berharap begitu. Aku yakin Tuhanku tau betapa aku sungguh hanya ingin kamu. Karena tanpa sadar, aku tidak pernah memedulikan segala sesuatu yang terjadi di masa lalumu. Aku mengenalmu yang seperti ini dan sudah sangat cukup bagiku.
 
