@@ -2,7 +2,7 @@
 title: Merayu
 tags: 
     - life
-date: 2023-12-26T15:11:32.283Z
+date: 2023-12-15T15:11:32.283Z
 image: uploads/pexels-vie-studio-70061941.jpg
 description: Biarkan aku merayu Tuhanku untuk apapun yang berkaitan kamu
 ---
