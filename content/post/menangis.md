@@ -1,11 +1,12 @@
 ---
 title: Menangis
-tags: life
+tags: 
+    - life
 date: 2023-12-26T15:50:21.729Z
 image: uploads/pexels-jeswin-thomas-1280162.jpg
 description: K﻿upikir aku sudah terbiasa, ternyata yang kulakukan hanya bersembunyi
 ---
-K﻿upikir aku sudah terbiasa, ternyata yang kulakukan hanya bersembunyi
+##### K﻿upikir aku sudah terbiasa, ternyata yang kulakukan hanya bersembunyi
 
 H﻿ari ini aku menangis lagi. Setelah sekian lama, kupikir aku sudah mampu mengatasi rasa sepi sebab tidak adanya kamu. *Aku sudah tau cara sembuh*, kataku saat kamu bilang padaku untuk jangan biarkan diriku menjadi gila. Ternyata sakit yang kurasa masih sama. Sama seperti saat itu. Rasa sakit luar biasa sehingga aku tidak mampu menahannya lagi dan memilih meluapkan semuanya. 
 
