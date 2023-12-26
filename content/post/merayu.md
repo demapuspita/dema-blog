@@ -8,7 +8,7 @@ description: Biarkan aku merayu Tuhanku untuk apapun yang berkaitan kamu
 ---
 ##### Biarkan aku merayu Tuhanku untuk apapun yang berkaitan kamu
 
-B﻿oleh tidak ya jika aku merayu Tuhanku untuk membiarkanmu tetap untukku? Meskipun saat ini, aku sedang mengusahakan hari-hari tanpa kamu, tapi aku tidak ingin berhenti berharap begitu. Aku yakin Tuhanku tau betapa aku sungguh hanya ingin kamu. Karena tanpa sadar, aku tidak pernah memedulikan segala sesuatu yang terjadi di masa lalumu. Aku mengenalmu yang seperti ini dan sudah sangat cukup bagiku.
+B﻿oleh tidak ya jika aku merayu Tuhanku untuk membiarkanmu tetap untukku? Atau, akankah kamu keberatan jika aku melakukan itu? Meskipun saat ini, aku sedang mengusahakan hari-hari tanpa kamu, tapi aku tidak ingin berhenti berharap begitu. Aku yakin Tuhanku tau betapa aku sungguh hanya ingin kamu. Karena tanpa sadar, aku tidak pernah memedulikan segala sesuatu yang terjadi di masa lalumu. Aku mengenalmu yang seperti ini dan sudah sangat cukup bagiku.
 
 K﻿atanya, pasangan itu seperti puzzle. Jika keduanya memiliki sisi yang sama, maka puzzle itu tidak akan bisa bersatu. Karena sebuah puzzle butuh bagian lainnya untuk bisa bersatu. Dahulu, mungkin tidak pernah terpikir olehku, bahwa akan ada masa dalam hidupku mengenal seseorang seperti kamu. Semua hal yang kamu lakukan, bagaimana kamu menjalani hidupmu, dan segala sifat-sifatmu, bertolak belakang dengan semua hal yang kulakukan, bagaimana aku menjalani hidupku, dan juga sifat-sifatku.
 
