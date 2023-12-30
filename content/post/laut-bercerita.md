@@ -1,12 +1,13 @@
 ---
 title: Laut Bercerita
-tags: article
+tags: 
+- article
 date: 2023-12-23T16:58:16.748Z
 image: uploads/pexels-mariana-montrazi-7366424.jpg
 description: J﻿angan terjebak  pada kenangan yang membuat kalian semua tak bisa
   meneruskan hidup.
 ---
-J﻿angan terjebak pada kenangan yang membuat kalian semua tak bisa meneruskan hidup
+##### J﻿angan terjebak pada kenangan yang membuat kalian semua tak bisa meneruskan hidup
 
 P﻿enuh dengan harap tapi juga tidak sedikit keputusasaan. Penuh dengan kekuatan tapi banyak rasa takut yang harus dihadapi juga. Penuh dengan kekecewaan, kesedihan, amarah, tapi hidup harus tetap berjalan.
 
