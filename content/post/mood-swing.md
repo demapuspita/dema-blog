@@ -1,11 +1,12 @@
 ---
 title: mood swing
-tags: life
+tags: 
+- life
 date: 2023-12-30T15:00:42.167Z
 image: uploads/pexels-mart-production-7277910.jpg
 description: Aku benci menjadi manusia paling menyedihkan.
 ---
-Aku benci menjadi manusia paling menyedihkan
+##### Aku benci menjadi manusia paling menyedihkan
 
 K﻿amu tau di setiap bulannya aku harus menghadapi perasaan seperti manusia paling menyedihkan? Hal-hal kecil mampu dengan mudah merubah suasana hatiku. Aku bisa mendadak bersedih seketika bahkan setelah aku tertawa terbahak-bahak. Di hari-hari biasa, aku tidak mudah tersinggung dengan segala ucapan, sikap, atau apapun yang kamu lakukan. Aku masih sangat mampu berpikir positif dalam menanggapi apapun. Aku tidak akan menganggap hal-hal itu sebagai sesuatu yang perlu aku pusingkan. 
 
