@@ -1,11 +1,12 @@
 ---
 title: Keajaiban Toko Kelontong Namiya
-tags: article
+tags: 
+- article
 date: 2023-12-29T18:04:09.890Z
 image: uploads/pexels-анна-рыжкова-3077882.jpg
 description: C﻿obalah untuk mengubah sudut pandang
 ---
-C﻿obalah untuk mengubah sudut pandang
+##### C﻿obalah untuk mengubah sudut pandang
 
 K﻿amu tau sepertinya aku membutuhkan satu yang seperti toko kelontong namiya, hahaha. Aku ingin tau jawaban apa yang akan diberikannya atas segala masalah yang terjadi dalam hidupku. Katanya, sering kali sebetulnya kita sudah memiliki jawaban sendiri atas segala hal yang harus kita hadapi, tetapi kita bimbang dan merasa perlu validasi juga seseorang yang membuat kita terdorong dan yakin atas pilihan yang sudah kita tentukan. 
 
