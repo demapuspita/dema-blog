@@ -13,6 +13,6 @@ B﻿uku ini merupakan karya Hamka, seorang ulama, pahlawan, sekaligus sastrawan.
 
 A﻿palah arti sebuah kesetiaan jika itu semua dapat dikalahkan oleh harta dan kedudukan. Katanya, sama-sama mengikat janji, katanya sama-sama menitip rindu, katanya sama-sama menanti pertemuan, katanya sama-sama menyemogakan kebersamaan. Semua itu hanya omong kosong belaka disaat salah satunya tidak mampu mempertahankan itu. 
 
-S﻿ungguh... sungguh sakit hatiku. Ntah kenapa aku merasa akan menjadi seperti dia yang janjinya dingkari, yang rindunya dibiarkan sendiri, yang penantiannya tak kunjung berenti, yang kebersamaannya tak akan terjadi. Jika suatu saat kamu memilih ingkar, aku akan memilih hidup seorang diri. Aku ingin menjalan hidupku dengan berjalan sendiri. Aku tidak peduli kepada mereka yang datang menghampiri. Bagiku, tidak ada artinya jika itu bukan kamu.
+S﻿ungguh... sungguh sakit hatiku. Ntah kenapa aku merasa akan menjadi seperti dia yang janjinya dingkari, yang rindunya dibiarkan sendiri, yang penantiannya tak kunjung berenti, yang kebersamaannya tak akan terjadi. Jika suatu saat kamu memilih ingkar, aku akan memilih hidup seorang diri. Aku ingin menjalani hidupku dengan berjalan sendiri. Aku tidak peduli kepada mereka yang datang menghampiri. Bagiku, tidak ada artinya jika itu bukan kamu.
 
 > J﻿ika kau diberi-Nya nikmat pula dengan cinta sebagaimana hatiku, marilah kita pelihara nikmat itu sebaik-baiknya, kita jaga dan kita pupuk, kita pelihara supaya jangan dicabut Tuhan kembali.
