@@ -1,12 +1,13 @@
 ---
 title: Tenggelamnya Kapal Van Der Wijck
-tags: article
+tags: 
+- article
 date: 2023-12-28T15:27:40.466Z
 image: uploads/pexels-rdne-stock-project-6670066.jpg
 description: C﻿inta bukan mengajar kita lemah, tetapi membangkitkan kekuatan.
   Cinta bukan melemahkan semangat, tetapi membangkitkan semangat
 ---
-C﻿inta bukan mengajar kita lemah, tetapi membangkitkan kekuatan. Cinta bukan melemahkan semangat, tetapi membangkitkan semangat
+##### C﻿inta bukan mengajar kita lemah, tetapi membangkitkan kekuatan. Cinta bukan melemahkan semangat, tetapi membangkitkan semangat
 
 B﻿uku ini merupakan karya Hamka, seorang ulama, pahlawan, sekaligus sastrawan. Pada awalnya, aku agak kesulitan memahami setiap kalimat yang digunakannya. Seperti banyak sekali susunan kata yang tidak biasa ku dengar. Namun, semakin ku baca semakin indah tutur bahasanya. Terlepas dari keindahan itu. Mengenai buku ini sendiri, sungguh sangat menyayat hati. Bohong jika aku berkata aku tidak menangis. 
 
