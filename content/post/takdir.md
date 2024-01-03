@@ -1,11 +1,12 @@
 ---
 title: Takdir
-tags: life
+tags: 
+- life
 date: 2024-01-03T11:10:30.955Z
 image: uploads/pexels-mikhail-nilov-6944355.jpg
 description: A﻿ku tidak tau takdir apa yang sudah tertulis dalam lauhul mahfudz ku
 ---
-A﻿ku tidak tau takdir apa yang sudah tertulis dalam *lauhul mahfudz* ku.
+##### A﻿ku tidak tau takdir apa yang sudah tertulis dalam *lauhul mahfudz* ku.
 
 Rupanya benar apa yang pernah kamu katakan. Menjadi dewasa tidaklah mudah. Banyak sekali runtutan rencana, harapan, juga keinginan yang ingin diwujudkan. Namun, hal itu terhenti disaat aku mulai kebingungan bagaimana caranya mewujudkan semuanya. Saat ini aku benar-benar merasa tertekan. Ntah apa yang membuat aku merasa begitu. Sepertinya aku sedang meragukan diriku sendiri. 
 
