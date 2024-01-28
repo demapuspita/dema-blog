@@ -1,11 +1,14 @@
 ---
 title: Berjalan
-tags: "- life"
+tags: 
+  - life
 date: 2024-01-28T17:37:23.816Z
 image: uploads/pexels-manu-mangalassery-1077469.jpg
 description: K﻿umohon, bekerjasamalah denganku. Mintalah kepada-Nya bahwa kamu
   juga menginginkan kebersamaan dalam ikatan abadi itu.
 ---
+##### Kumohon, bekerjasamalah denganku.
+
 M﻿ungkin sudah seminggu berlalu sejak hari pertama kamu menginjakkan kakimu di kota Medan. Katamu, satu bulan lamanya kamu akan ditugaskan di sana, pun tidak menutup kemungkinan untuk dipindahkan di sana. Katamu, kamu senang berada di sana. Tentu aku tau betul bahwa kamu memang menginginkan pekerjaan yang jauh dari rumah.
 
 S﻿udah beberapa potongan video yang kamu kirimkan padaku sejak kamu di sana. Hanya video singkat berisi langkah kakimu untuk sekedar mencari makan. Namun, aku sempat bergumam, akankah suatu saat nanti langkah itu akan beriringan dengan langkahku?
