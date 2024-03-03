@@ -21,7 +21,7 @@ J﻿ika suatu saat itu terjadi, ayo kita kelilingi pulau sumatra itu. Kita bisa 
 
 K﻿atamu, kamu ingin mendaki gunung. Namun, yang membuatku senang adalah kamu mengatakan seolah-olah saat itu akan tiba, ya, mendaki bersamaku. Di manapun itu, selama aku bersamamu aku yakin aku akan aman. Aku yakin kamu akan menjagaku. 
 
-A﻿ku selalu berdoa, "lancarkan rezeki abang". Aku sengaja tidak menyebutnya secara spefisik. Karena rezeki memang bisa datang dalam bentuk apapun, jadi biarlah ia datang dengan segala bentuknya. Tentu doa itu ku harap berbalik juga padaku, aku ingin salah satu hal yang kusebut rezeki itu berkaitan kamu. Menjadi pendampingmu misalnya, bukankah itu bisa kusebut rezeki nomplok?
+A﻿ku selalu berdoa, "lancarlah selalu rezekimu". Aku sengaja tidak menyebutnya secara spefisik. Karena rezeki memang bisa datang dalam bentuk apapun, jadi biarlah ia datang dengan segala bentuknya darimana pun ia berasal.
 
 K﻿umohon, bekerjasamalah denganku. Mintalah kepada-Nya bahwa kamu juga menginginkan kebersamaan dalam ikatan abadi itu. Semoga doaku dan doamu memiliki tujuan yang sama. Aku meminta pada Tuhan-ku untuk tumbuhkan cinta pada hatimu kepadaku atas kehendak-Nya. Biarlah jika memang belum waktunya, namun aku juga memohon untuk terus jaga hatimu sehingga tidak jatuh pada cinta yang lain.
 
