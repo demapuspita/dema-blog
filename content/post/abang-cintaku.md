@@ -1,9 +1,9 @@
 ---
 title: Abang, cintaku
-tags: 
-    - life
+tags:
+  - life
 date: 2024-03-04T17:08:47.125Z
-image: uploads/pexels-burak-bahadır-büyükkılınç-.jpg
+image: uploads/2.webp
 description: Akhir yang belum sempat dimulai
 ---
 
