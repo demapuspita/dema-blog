@@ -1,10 +1,12 @@
 ---
 title: Abang, cintaku
-tags: life
+tags: - life
 date: 2024-03-04T17:08:47.125Z
 image: uploads/pexels-burak-bahadır-büyükkılınç-.jpg
 description: Akhir yang belum sempat dimulai
 ---
+
+##### Abang, cintaku
 A﻿bang, cintaku. M﻿aafkan aku sudah begitu marah padamu saat itu. Aku tidak tau mengapa hatiku sungguh terluka melihat hal itu. Sudah lama kiranya aku tidak merasakannya. Namun, ternyata aku masihlah yang dulu, pencemburu.
 
 A﻿bang, cintaku. Jika kemarin adalah hari terakhir kita saling berbicara, sangat disayangkan bahwa kita harus berakhir seperti ini.
