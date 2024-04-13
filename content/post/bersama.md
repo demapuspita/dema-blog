@@ -6,7 +6,7 @@ date: 2024-04-13T07:34:32.913Z
 image: uploads/pexels-megapixelstock-17834.jpg
 description: B﻿ae udah mau nikah? biar gak 40 mins in the morning lagi
 ---
-###### J﻿aga selalu hatimu
+###### Jaga selalu hatimu
 
 *B﻿ae udah mau nikah? biar gak 40 mins in the morning lagi*. Katamu saat itu ketika aku protes mengenai waktumu yang kian berkurang bersamaku. Sejujurnya aku senang jika Abang mampu hidup dengan baik di sana. Aku tidak perlu khawatir lagi bagaimana Abang menjalani hidup sendirian di pulau yang tidak pernah Abang kunjungi sebelumnya. Namun, aku tentu tetaplah wanita, aku tetaplah pencemburu. Apa pun itu mampu membuatku cemburu jika sudah berkaitan kamu. 
 
