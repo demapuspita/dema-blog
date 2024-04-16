@@ -1,11 +1,12 @@
 ---
 title: sudahi
-tags: life
+tags: 
+    - life
 date: 2024-04-16T04:53:52.424Z
 image: uploads/pexels-vladimir-gladkov-6208096.jpg
 description: a﻿bang, mengertilah. kiranya tidak ada yang mencintaimu sebaik cintaku.
 ---
-M﻿enjauh untuk kembali
+##### M﻿enjauh untuk kembali
 
 a﻿bang, begitu hancur hatiku mendengar semua pernyataanmu. katamu yang tidak bisa lagi membuka hati untuk cinta yang baru. katamu yang tidak lagi memiliki keinginan untuk memperjuangkan cinta yang baru. lalu, bagaimana denganku, abang? sakit sekali hatiku mengetahui bahwa memang tidak pernah ada aku dihatimu. bahwa tidak pernah bisa kugantikan cinta yang dulu pernah abang begitu semogakan.
 
