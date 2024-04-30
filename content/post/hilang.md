@@ -1,11 +1,12 @@
 ---
 title: hilang
-tags: life
+tags: 
+    - life
 date: 2024-04-30T14:14:39.045Z
 image: uploads/pexels-bob-price-252175-764880.jpg
 description: kumohon, kembalilah
 ---
-A﻿ku tidak tau apa yang membuatmu begitu
+##### A﻿ku tidak tau apa yang membuatmu begitu
 
 A﻿bang, cintaku. Tidak kah abang rindu barang sedikitpun? hari-hari berlalu tidak ada kabar darimu. Abang, cintaku. Sungguh aku sangat merindu, sungguh aku tidak pernah menginginkan perpisahan terjadi diantara kita. Abang, cintaku. Sungguh sakit hatiku tidak lagi abang bicara padaku. Abang, cintaku. Tidak bisakah kembali padaku untuk kesekian kalinya? kupikir kita akan selalu saling mencari dikala perdebatan antara kita terjadi. 
 
