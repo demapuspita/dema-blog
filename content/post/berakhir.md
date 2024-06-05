@@ -1,11 +1,12 @@
 ---
 title: berakhir
-tags: life
+tags: 
+    - life
 date: 2024-06-05T16:33:39.973Z
 image: uploads/pexels-photo-278303.jpeg
 description: k﻿u tahu melepasmu pastilah sesakit ini
 ---
-k﻿u tahu melepasmu pastilah sesakit ini
+##### k﻿u tahu melepasmu pastilah sesakit ini
 
 B﻿erakhir sudah semuanya. Pada akhirnya aku memberanikan diri untuk bersikap tegas terhadapmu. Aku juga ingin bahagia. Aku tidak ingin hari-hariku hanya ada tangis sedang Abang bahkan tidak pernah peduli terhadap apa yang kurasa. Saat ini, satu-satunya cara menyelamatkan hatiku adalah dengan melepasmu. Sungguh, melepasmu sangat menyakitkan bagiku, namun untuk tetap bersamamu, tidak ada jaminan pula atas kebahagiaanku.
 
