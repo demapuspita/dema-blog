@@ -1,6 +1,7 @@
 ---
 title: kembali
-tags: - life
+tags: 
+    - life
 date: 2024-08-11T18:12:29.136Z
 image: https://images.pexels.com/photos/6275820/pexels-photo-6275820.jpeg
 description: H﻿anya dengamu aku selalu ingin kembali
