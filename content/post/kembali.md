@@ -1,11 +1,11 @@
 ---
 title: kembali
-tags: life
+tags: - life
 date: 2024-08-11T18:12:29.136Z
 image: https://images.pexels.com/photos/6275820/pexels-photo-6275820.jpeg
 description: H﻿anya dengamu aku selalu ingin kembali
 ---
-H﻿anya dengamu aku selalu ingin kembali
+##### H﻿anya dengamu aku selalu ingin kembali
 
 H﻿i, Abang! Lama sekali sejak terakhir kuucapkan untuk tak perlu lagi ada yang dibicarakan di antara kita. Setidaknya dua bulan lamanya kita tak lagi saling bicara. Jujur saja aku bingung, aku sungguh merindukanmu, tetapi inginku adalah kau lantas datang mencariku. Namun, ternyata hilangku tidak membuatmu mencariku. Hilangku mungkin tampak tak berarti bagimu karena mungkin sudah sejak lama kehadiranku tak lagi berarti apa-apa bagimu. 
 
