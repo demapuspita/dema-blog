@@ -1,11 +1,12 @@
 ---
 title: tersakiti
-tags: life
+tags: 
+    - life
 date: 2024-09-02T00:47:44.632Z
 image: uploads/pexels-photo-3022456.jpeg
 description: s﻿emua ini menyakitiku
 ---
-s﻿emua ini menyakitiku
+##### s﻿emua ini menyakitiku
 
 S﻿ungguh... sakit hatiku mendengar kabar darimu. Ketika ku jauh darimu, dan tidak baik kabarmu. Tapi yang jauh lebih menyakitiku, mengetahui bahwa kekhawatiranku bahkan tidak berarti bagimu. Aku tidak tau lagi harus dengan cara apa kutunjukkan padamu, sudah kukatakan dengan gamblang, tidak juga Abang mau mengerti.
 
