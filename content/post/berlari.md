@@ -1,11 +1,12 @@
 ---
 title: berlari
-tags: life
+tags: 
+    - life
 date: 2024-09-02T15:01:53.308Z
 image: uploads/pexels-photo-6505027.jpeg
 description: keramaian yang kurindukan
 ---
-keramaian yang kurindukan
+##### Keramaian yang kurindukan
 
 A﻿ku mengikuti caramu, pergi menyusuri kota saat masalah melanda. Aku selalu senang mengikutimu dalam banyak hal. Malam ini, yang kulakukan hanya berlari, menyusuri kota, berharap keramaian kota mampu menghilangkan sedikitnya rasa sepi. Sepi saat sendiri, saat kurasa hadirmu tidak lagi terasa untukku.
 
