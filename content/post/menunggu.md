@@ -4,9 +4,9 @@ tags:
     - life
 date: 2024-10-25T16:43:16.957Z
 image: uploads/pexels-suzyhazelwood-1908066.jpg
-description: Kumohon, tetaplah bersamaku. Kumohon kita perbaiki lagi semuanya.
+description: Kumohon, tetaplah bersamaku. Kumohon kita perbaiki lagi semuanya, ya?
 ---
-##### Kumohon, tetaplah bersamaku. Kumohon kita perbaiki lagi semuanya.
+##### Kumohon, tetaplah bersamaku. Kumohon kita perbaiki lagi semuanya, ya?
 
 H﻿ari ini, untuk pertama kalinya abang mau membahas apa yang terjadi di antara kita. Sudah lama rasanya kurasa ada yang berbeda, di saat abang tidak lagi terasa menggebu-gebu seperti dahulu. Namun, aku tidak pernah mendapat penjelasan akan itu. Sampai akhirnya hari ini, katamu, rasanya memang tidak *excited* seperti sedia kala. Katamu, sudah lelah dengan pekerjaanmu. 
 
@@ -20,4 +20,4 @@ A﻿ku selalu tidak percaya diri, denganmu yang menjadi sedikit bicara, denganmu
 
 Y﻿ang bisa kulakukan selama ini hanya terus mendoakan dan berharap pada Tuhan ku untuk selalu menjagamu. Ketika mataku tidak bisa menjangkaumu, kupercaya, penghilatan-Nya akan selalu tertuju padamu. 
 
-K﻿umohon, kembalilah, kembalilah seperti dirimu yang ku kenal dulu. Sungguh, aku merindukan kita yang dahulu saling menggebu-gebu. Aku rindu bicara banyak padamu. Jika saja hari ini kamu memilih untuk mengakhiri semuanya, sungguh, aku tidak tahu bagaimana caraku menjalani hidupku selanjutnya. Tidak akan lagi ku tahu kabarmu, tidak akan lagi ku dengar kabar mu, tidak akan lagi ku lihat senyum di wajahmu. Kumohon jangan pernah biarkan itu terjadi. Kumohon, tetaplah bersamaku. Kumohon kita perbaiki lagi semuanya.
+K﻿umohon, kembalilah, kembalilah seperti dirimu yang ku kenal dulu. Sungguh, aku merindukan kita yang dahulu saling menggebu-gebu. Aku rindu bicara banyak padamu. Jika saja hari ini kamu memilih untuk mengakhiri semuanya, sungguh, aku tidak tahu bagaimana caraku menjalani hidupku selanjutnya. Tidak akan lagi ku tahu kabarmu, tidak akan lagi ku dengar kabar mu, tidak akan lagi ku lihat senyum di wajahmu. Kumohon jangan pernah biarkan itu terjadi. Kumohon, tetaplah bersamaku. Kumohon kita perbaiki lagi semuanya, ya?
