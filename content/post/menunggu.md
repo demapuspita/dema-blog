@@ -16,7 +16,7 @@ K﻿ata mu, tidak ingin ku pergi, tapi terlalu egois dan lebih memilih sibuk aka
 
 A﻿ku selalu ingin memahamimu, hanya saja kali ini terasa sulit, aku tidak mengenalmu yang seperti ini, dan kamu memaksaku untuk mengenalmu yang seperti ini. Bagaimana caraku menyesuaikanmu yang seperti ini, sedang ku tahu posisi ku bukanlah sesiapa mu. 
 
-A﻿ku selalu tidak percaya diri, denganmu yang menjadi sedikit bicara, denganmu yang tidak pernah memberi penjelasan, denganmu yang tidak memberiku sebuah keyakinan bahwa tidak ada yang perlu dikhawatirkan. Lantas bagaimana aku harus bersikap, sedang ragamu bahkan tak m.ampu kujangkau.
+A﻿ku selalu tidak percaya diri, denganmu yang menjadi sedikit bicara, denganmu yang tidak pernah memberi penjelasan, denganmu yang tidak memberiku sebuah keyakinan bahwa tidak ada yang perlu dikhawatirkan. Lantas bagaimana aku harus bersikap, sedang ragamu bahkan tak mampu kujangkau.
 
 Y﻿ang bisa kulakukan selama ini hanya terus mendoakan dan berharap pada Tuhan ku untuk selalu menjagamu. Ketika mataku tidak bisa menjangkaumu, kupercaya, penghilatan-Nya akan selalu tertuju padamu. 
 
