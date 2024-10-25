@@ -1,11 +1,12 @@
 ---
 title: menunggu
-tags: life
+tags: 
+    - life
 date: 2024-10-25T16:43:16.957Z
 image: uploads/pexels-suzyhazelwood-1908066.jpg
 description: Kumohon, tetaplah bersamaku. Kumohon kita perbaiki lagi semuanya.
 ---
-Kumohon, tetaplah bersamaku. Kumohon kita perbaiki lagi semuanya.
+##### Kumohon, tetaplah bersamaku. Kumohon kita perbaiki lagi semuanya.
 
 H﻿ari ini, untuk pertama kalinya abang mau membahas apa yang terjadi di antara kita. Sudah lama rasanya kurasa ada yang berbeda, di saat abang tidak lagi terasa menggebu-gebu seperti dahulu. Namun, aku tidak pernah mendapat penjelasan akan itu. Sampai akhirnya hari ini, katamu, rasanya memang tidak *excited* seperti sedia kala. Katamu, sudah lelah dengan pekerjaanmu. 
 
