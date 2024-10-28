@@ -1,11 +1,12 @@
 ---
 title: perpisahan
-tags: life
+tags: 
+    - life
 date: 2024-10-28T15:04:52.319Z
 image: uploads/pexels-andrew-2859169.jpg
 description: kupikir kita sepakat untuk perbaiki?
 ---
-kupikir kita sepakat untuk perbaiki?
+##### kupikir kita sepakat untuk perbaiki?
 
 H﻿ari ini, akhirnya, telah kamu putuskan juga akhir dari semuanya. Akhirnya, kamu memintaku untuk berhenti. Katamu, takut semakin hancur hatiku bila dilanjutkan. Alih-alih perbaiki kerusakan yang terjadi, kamu lebih memilih mengakhiri semuanya. 
 
