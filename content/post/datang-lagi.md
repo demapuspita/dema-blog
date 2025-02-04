@@ -6,7 +6,7 @@ date: 2025-02-04T10:09:40.575Z
 image: uploads/pexels-photo-24181551.webp
 description: mungkinkah do'aku yang membawamu kemari?
 ---
-##### mungkinkah do'aku yang membawamu kemari?\
+##### mungkinkah do'aku yang membawamu kemari?
 \
 T﻿iga bulan lamanya, aku hanya selalu menahan rindu dengan segala asumsi yang ada dipikiranku. Dengan berhentinya aku mencari tahu segala hal tentangmu, membuatku banyak berpikir akan kemungkinan-kemungkinan yang terjadi padamu selama pandangku tidak mampu mencapaimu. \
 \
