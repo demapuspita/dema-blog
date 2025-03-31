@@ -1,10 +1,12 @@
 ---
 title: sendiri
+tags: 
+  - life
 date: 2025-03-31T03:24:42.886Z
 image: uploads/whatsapp-image-2025-03-19-at-20.51.53_a27b4161.jpg
 description: s﻿endiri itu bukan inginku
 ---
-Sendiri itu bukan inginku
+##### Sendiri itu bukan inginku
 
 T﻿idak pernah kusangka, hari raya tahun ini menjadi hari raya paling menyedihkan. Aku tidak tau akan melewati hari raya hari ini sendirian. Hari ini, aku menunggu pesan darimu. Kupikir, dengan adanya momen seperti ini akan membuatmu memiliki alasan untuk menghubungiku. Paling tidak, mengucapkan selamat hari raya. Nyatanya, pesanku pun tidak juga abang balas. 
 
